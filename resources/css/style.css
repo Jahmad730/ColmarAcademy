@@ -322,20 +322,6 @@ h3 {
     padding-top: 2rem;
 }
 
-.visual {
-    width: 60%;
-    height: auto;
-    margin: 32.003px 24.012px;
-    margin: 1.778rem 1.334rem;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
-}
-
 .text {
     width: 40%;
     display: -webkit-box;
@@ -620,20 +606,6 @@ h3 {
 #thesis h3 {
     margin-top: 32.003px;
     margin-top: 1.778rem;
-}
-
-.visual {
-    width: 60%;
-    height: auto;
-    margin: 32.003px 24.012px;
-    margin: 1.778rem 1.334rem;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
 }
 
 #thesis .quote {
